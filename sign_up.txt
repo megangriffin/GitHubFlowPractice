@@ -1,1 +1,2 @@
 This is going to be the sign up page
+This is the added features for the sign up page 
